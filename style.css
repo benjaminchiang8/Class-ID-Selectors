@@ -1,0 +1,13 @@
+#blue{
+    color:blue;
+    font-size: 36px;
+}
+#green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+p{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
